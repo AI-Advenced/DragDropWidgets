@@ -1,0 +1,3 @@
+[console_scripts]
+dragdrop-dashboard = dragdropwidgets.examples.dashboard:main
+dragdrop-hello = dragdropwidgets.examples.hello_world:main

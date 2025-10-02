@@ -1,0 +1,183 @@
+{
+  "layout_mode": "free",
+  "grid_size": 20,
+  "show_grid": true,
+  "widgets": [
+    {
+      "id": "117a4a10-463d-4445-85bf-89fa3914800f",
+      "type": "DraggableButton",
+      "position": {
+        "x": 50,
+        "y": 50
+      },
+      "size": {
+        "width": 100,
+        "height": 35
+      },
+      "visible": true,
+      "draggable": true,
+      "resizable": true,
+      "metadata": {
+        "text": "Draggable Button",
+        "button_style": "primary",
+        "enabled": true,
+        "checkable": false,
+        "checked": false
+      }
+    },
+    {
+      "id": "5597e6a6-96f8-49b8-85bd-c3f1154b9c06",
+      "type": "DraggableButton",
+      "position": {
+        "x": 200,
+        "y": 50
+      },
+      "size": {
+        "width": 100,
+        "height": 35
+      },
+      "visible": true,
+      "draggable": true,
+      "resizable": true,
+      "metadata": {
+        "text": "Success Button",
+        "button_style": "success",
+        "enabled": true,
+        "checkable": false,
+        "checked": false
+      }
+    },
+    {
+      "id": "cdc6c912-dc6b-4baa-9c2f-95fce9f574b9",
+      "type": "DraggableButton",
+      "position": {
+        "x": 350,
+        "y": 50
+      },
+      "size": {
+        "width": 100,
+        "height": 35
+      },
+      "visible": true,
+      "draggable": true,
+      "resizable": true,
+      "metadata": {
+        "text": "Warning Button",
+        "button_style": "warning",
+        "enabled": true,
+        "checkable": false,
+        "checked": false
+      }
+    },
+    {
+      "id": "3a648be3-9185-486d-8c11-60bdaf0a1aca",
+      "type": "DraggableLabel",
+      "position": {
+        "x": 50,
+        "y": 150
+      },
+      "size": {
+        "width": 157,
+        "height": 30
+      },
+      "visible": true,
+      "draggable": true,
+      "resizable": true,
+      "metadata": {
+        "text": "Draggable Text Label",
+        "font_size": 24,
+        "color": "#2c3e50",
+        "alignment": "center",
+        "word_wrap": false,
+        "background_color": "rgba(255, 255, 255, 0.8)",
+        "font_bold": true,
+        "style_preset": "title",
+        "font_family": "Segoe UI",
+        "font_italic": false,
+        "has_pixmap": false
+      }
+    },
+    {
+      "id": "6705c8e3-41bf-488d-87f5-7e971e10a6e2",
+      "type": "DraggableLabel",
+      "position": {
+        "x": 50,
+        "y": 200
+      },
+      "size": {
+        "width": 102,
+        "height": 30
+      },
+      "visible": true,
+      "draggable": true,
+      "resizable": true,
+      "metadata": {
+        "text": "Subtitle Label",
+        "font_size": 18,
+        "color": "#34495e",
+        "alignment": "center",
+        "word_wrap": false,
+        "background_color": "rgba(255, 255, 255, 0.8)",
+        "font_bold": false,
+        "style_preset": "subtitle",
+        "font_family": "Segoe UI",
+        "font_italic": false,
+        "has_pixmap": false
+      }
+    },
+    {
+      "id": "96be3aa4-eadc-441c-8467-79a9ce317464",
+      "type": "DraggableLabel",
+      "position": {
+        "x": 50,
+        "y": 250
+      },
+      "size": {
+        "width": 101,
+        "height": 30
+      },
+      "visible": true,
+      "draggable": true,
+      "resizable": true,
+      "metadata": {
+        "text": "Info Message",
+        "font_size": 14,
+        "color": "#3498db",
+        "alignment": "center",
+        "word_wrap": false,
+        "background_color": "#ebf3fd",
+        "font_bold": false,
+        "style_preset": "info",
+        "font_family": "Segoe UI",
+        "font_italic": false,
+        "has_pixmap": false
+      }
+    },
+    {
+      "id": "978f7100-355b-49b3-840e-8c7cd2b09efd",
+      "type": "DraggableImage",
+      "position": {
+        "x": 400,
+        "y": 150
+      },
+      "size": {
+        "width": 150,
+        "height": 100
+      },
+      "visible": true,
+      "draggable": true,
+      "resizable": true,
+      "metadata": {
+        "image_path": null,
+        "scale_mode": "keep_aspect_ratio",
+        "aspect_ratio_locked": true,
+        "has_image": false
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "created_at": "2025-10-02T12:41:30.596458",
+    "library": "DragDropWidgets"
+  }
+}

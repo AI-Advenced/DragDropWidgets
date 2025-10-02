@@ -1,0 +1,16 @@
+PySide6>=6.4.0
+PyYAML>=6.0
+
+[dev]
+pytest>=6.0
+pytest-cov
+black
+flake8
+mypy
+sphinx
+sphinx-rtd-theme
+
+[examples]
+matplotlib
+numpy
+pillow
