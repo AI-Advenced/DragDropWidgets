@@ -8,6 +8,10 @@ DragDropWidgets is a powerful, easy-to-use library built on PySide6 that allows 
 [![PySide6](https://img.shields.io/badge/PySide6-6.4+-green.svg)](https://doc.qt.io/qtforpython/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+<img width="1384" height="789" alt="image" src="https://github.com/user-attachments/assets/4ba2ec16-24c0-4308-826a-26c7dd43e2db" />
+
+
+
 ## ✨ Features
 
 ### 🎮 Core Functionality
